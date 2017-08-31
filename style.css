@@ -44,6 +44,28 @@ div div {
 .yellow {
   background: yellow;
 }
+.brown {
+  background: brown;
+}
+.tan {
+  background: tan;
+}
+.pallette-brown {
+  background: brown;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+  border: 1px solid black;
+}
+.pallette-tan {
+  background: tan;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+
 
 .pallette-white {
   background: white;
